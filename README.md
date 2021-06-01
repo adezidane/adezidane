@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adezidane
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, sayang
+- 👀 I’m maaf ya belom bisa bikin kamu bahgia
+- 🌱 I’m janji akan bikin kamu bahagia
+- 💞️ I’m dan kedepan akan lebih indah dari sekarang
+- 📫 How Love you
 
 <!---
 adezidane/adezidane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
